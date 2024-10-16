@@ -13,7 +13,7 @@ The concept can be expanded to make other types of graphics for businesses and i
 
 
 ## Installation
-npm i jest
+npm i 
 
 
 ## Contribution
